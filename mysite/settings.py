@@ -25,7 +25,7 @@ SECRET_KEY = '768wo(f$13+cx=!b9efx1grv#)_#*_%&q1)5uxwvdop+^yhsgc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1','.aidar.ga','159.89.110.39']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1','.murat.ga','46.101.223.247']
 
 # Application definition
 
